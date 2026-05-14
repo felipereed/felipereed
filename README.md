@@ -3,7 +3,6 @@
 -->
 
 <h1 align="center"> <img align="center" alt="GIF" height="50px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> &nbsp;Hi 👋, I'm Felipe Reed.</h1>
-<h3 align="center">Software Engineering Immersive Alumni at General Assembly NYC <br> Computer Science Student at SUNY <br> Front-End & Graphic Design Student at EBAC</h3>
 
 <br>
 
