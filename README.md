@@ -10,7 +10,7 @@
 <p><img align="right" src="https://media3.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47oduvs5ar6p8paprwjuoui665ag09mbjgexe2yz9m&rid=giphy.gif&ct=g" alt="gif" /></p>
 
 
-🌱 I’m a Software Engineer and web developer freelancer based in New York City. 
+🌱 I’m a Graphic Designer and Web Developer freelancer based in London, UK. 
 I have a passion for front-end programming languages and UX/UI Design. 
 My focus is on writing clean, maintainable, efficient code and designing beautiful and functional user experiences.
 
